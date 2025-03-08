@@ -12,7 +12,9 @@ vocẽ instala a extensão tampermonkey ou violentmonkey no seu navegador
 e vocẽ instala o script.js na extensão e ao entrar na plataforma vai ter dois botoes 
 
 - Marcar paginas como concluida - voce aperta ele na parte do curso e ele vai marcar todas as paginas como concluidas (menos os exames)
-- Fazer Exame - vocẽ vai em um exame e inicia ele e aperta nesse botao que ele vai responder sozinho 
+- Fazer Exame - vocẽ vai em um exame e inicia ele e aperta nesse botao que ele vai responder sozinho
+
+ou voce pode usar a versao bookmark que na atividade voce aperta o bookmark
 
 # script feito por marcos10pc para [Platform Destroyer](https://discord.gg/platformdestroyer)
 entra la caso precisar de ajuda ou seila uq nois te ajudakk
